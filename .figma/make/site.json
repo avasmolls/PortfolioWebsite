@@ -1,0 +1,12 @@
+{
+  "title": "Ava Smolley - Online Portfolio",
+  "description": "Showcasing my skills, projects, and experience with a professional portfolio website designed to attract potential employers and clients.",
+  "language": "en",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
